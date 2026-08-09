@@ -1,50 +1,53 @@
-# Welcome to your Expo app 👋
+# 🏋️ AI Gym Coach
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+AI Gym Coach is a personalized home fitness application built with React Native and Expo.
 
-## Get started
+The project focuses on generating workout routines based on user preferences and mood while providing workout tracking, motivation, and progress monitoring.
 
-1. Install dependencies
+## 🚧 Project Status
 
-   ```bash
-   npm install
-   ```
+**Currently under development**
 
-2. Start the app
+The core workout generation, timer, streak tracking, progress tracking, and workout swap features are currently implemented.
 
-   ```bash
-   npx expo start
-   ```
+## ✨ Features
 
-In the output, you'll find options to open the app in a
+- 🏋️ Workout generation
+- 🎯 Mood-based workout recommendations
+- ⏱️ Workout countdown timer
+- 🔥 Workout streak tracking
+- 📊 Progress monitoring
+- 🔄 Workout swap functionality
+- 🥗 Basic diet suggestions
+- 💪 Home-based workout routines
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🛠️ Technologies Used
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- React Native
+- Expo
+- TypeScript
+- JavaScript
+- AsyncStorage
+- VS Code
+- Git & GitHub
 
-## Get a fresh project
+## 📱 Application
 
-When you're ready, run:
+The application is designed as a mobile fitness coach that helps users follow personalized home workouts and track their consistency over time.
 
-```bash
-npm run reset-project
-```
+## 🔮 Future Development
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+- AI-powered workout personalization
+- Enhanced recommendation system
+- Additional workout plans
+- Improved UI/UX
+- More fitness and progress tracking features
+- Motivational coach interactions
 
-## Learn more
+## 👩‍💻 Developer
 
-To learn more about developing your project with Expo, look at the following resources:
+**Kavya Manikandan**
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+B.Sc. Advanced Zoology and Biotechnology
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Interested in Technology, Artificial Intelligence, and Application Development.
