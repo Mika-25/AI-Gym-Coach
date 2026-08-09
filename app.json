@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "gym-coach-app",
+    "slug": "gym-coach-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android", "ios", "web"]
+  }
+}
